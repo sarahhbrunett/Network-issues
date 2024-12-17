@@ -2,6 +2,8 @@
 
 Here are some questions that can be asked to solve or get an idea as to what the issue is.
 
+As we already know the Issue is connected to the network, but hese questions will help lead us in the right direction as to pin point the problem
+
 1. Could you describe what you are seeing?
 2. When did this problem start?
 3. Has this ever happened before?
